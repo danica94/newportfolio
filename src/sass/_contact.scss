@@ -1,0 +1,124 @@
+  
+  .findjob{
+    text-align:center; 
+   font-family: 'Patrick Hand', cursive;
+   color: #b6a5e8;
+  padding-top:100px;
+  }
+  .card-contact{
+    max-width: 940px;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr;
+    text-align:center;
+    padding:3% 15%;
+  }
+  .cardleft{
+    align-items: center;
+    margin-top: 15px;
+    position: relative;
+ 
+    margin: 10px;
+  }
+  .cardright{
+    align-items: center;
+    margin-top: 15px;
+    position: relative;
+
+    margin: 10px;
+      }
+  .cardright .input-box{
+    height: 40px;
+    width: 80%;
+    margin: 12px 0;
+    font-family: 'Patrick Hand', cursive;
+  }
+  .cardright .input-box input, .cardright .input-box textarea{
+    height: 100%;
+    width: 85%;
+    border: none;
+    outline: none;
+    font-size: 10px;
+    background: #e0e1e5;
+    padding: 0 15px;
+    resize: none;
+    border-radius: 6px;
+    font-family: 'Patrick Hand', cursive;
+  }
+  
+  
+  .cardright .input-box textarea{
+    padding-top: 15px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 10px;
+  }
+  .cardright .button{
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .cardright .button input[type="button"]{
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: #b6a5e8;
+    font-family: 'Patrick Hand', cursive; 
+  }
+  .button input[type="button"]:hover{
+    background: #7658d0;
+  }
+  .topic-text{
+  font-family: 'Patrick Hand', cursive; 
+  }
+  .email{
+    font-family: 'Patrick Hand', cursive;
+    color: #afafb6;
+  }
+  .contactword{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:12px;
+  }
+  @media screen and (min-width: 600px){
+    .card-contact{
+      grid-template-columns: repeat(2, 1fr);
+      padding:5% 10%;
+    }
+  .cardright{
+    padding-top:25px;
+  }
+  .cardright .input-box{
+    height: 40px;
+    width: 80%;
+  }
+  .cardright .button{
+    margin-top: 15px;
+  }
+  .cardright .input-box input,
+  .cardright .input-box textarea{
+    font-size: 18px;
+    width: 90%;
+  }
+  .cardright .message-box{
+    min-height: 110px;
+  }
+  .contactword{
+      font-size: 18px;
+  }
+  }
+  @media screen and (min-width: 1200px){
+   .cardright .input-box{
+    height: 60px;
+    width: 100%;
+  }
+    .card-contact{
+       padding:8% 20%;
+    }
+    .contactword{
+      font-size: 20px;
+  }
+    .cardright{
+    padding-top:45px;
+  }
+  }/***************end minwidth1200*************/

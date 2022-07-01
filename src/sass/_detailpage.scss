@@ -1,0 +1,52 @@
+.detailpage{
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr;
+    text-align:center;
+    padding:0 10%;
+  }
+  .dptitle{
+      text-align:center;
+     font-family: 'Patrick Hand', cursive; 
+     font-size:35px;
+    }
+  .dpword{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:12px;
+  }
+  .projectdetail{
+   font-family: 'Patrick Hand', cursive; 
+       font-size:24px;
+    
+  }
+  
+    @media screen and (min-width: 600px){
+  .detailpage{
+    padding:0 15%;
+  }
+  .dptitle{
+      text-align:center;
+     font-family: 'Patrick Hand', cursive; 
+     font-size:40px;
+    } 
+   .projectdetail{
+       font-size:28px;
+  }
+  .dpword{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:20px;
+  }
+  }/***************end minwidth1200*************/
+  @media screen and (min-width: 1200px){
+  
+   .dptitle{
+     font-size:50px;
+    } 
+   .projectdetail{
+       font-size:35px;
+  }
+  .dpword{
+    font-size:30px;
+  }
+  }/***************end minwidth1200*************/
+  

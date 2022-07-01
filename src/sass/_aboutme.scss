@@ -1,0 +1,136 @@
+.selfintro {
+    width: 100%;
+    padding: 80px 0 20px 0;
+    background:#c3a8dc;
+    background-position: center;
+  
+ 
+}
+.selfintro p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-left:40px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.name {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+    margin-left:40px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.selfintro h2 {
+  display: inline-block; 
+  letter-spacing: 2px;
+  font-size: 15px;
+  height: 18px;
+  font-weight: 600;
+  color:#fff;
+  box-sizing: border-box;
+  margin-left:40px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.experience{
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px 1em;  
+}
+.title{
+  text-align:center;
+  font-family: 'Patrick Hand', cursive;
+  
+}
+.cvleft{
+ padding: 0 3% 0 3% ;  
+}
+.cvright{
+ padding: 0 3% 0 3%;  
+}
+.timeline-date{
+  text-align:center;
+  margin-top:50px;
+  font-family: 'Patrick Hand', cursive;
+  font-size:25px;
+}
+.job-title{
+   font-family: 'Patrick Hand', cursive;
+  }
+.place{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size:12px;
+}
+.workdetial{
+  font-family: 'Jost', sans-serif;
+}
+@media screen and (min-width: 600px){
+.experience{
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.timeline-date{
+  text-align:right;
+}
+.selfintro p {
+        font-size: 18px;
+    }
+.selfintro { 
+    padding: 75px 0 20px 0;
+} 
+ .place{
+  font-size:14px;
+  text-align:right;
+}
+.job-title{
+   text-align:left;
+}
+.name {
+        font-size: 40px;
+    }
+    
+.selfintro h2 {
+        font-size: 22px;
+        height: 22px;
+    }
+.title{
+  font-size:50px;
+}
+.cvleft{
+ padding: 0 5% 0 15% ;  
+}
+.cvright{
+ padding: 0 15% 0 5% ;  
+}
+.timeline-date{
+  font-size:35px;
+}
+
+}/***************end minwidth600*************/
+@media screen and (min-width: 1200px){
+.selfintro { 
+    padding: 100px 0 20px 0;
+} 
+.selfintro p {
+        font-size: 22px;
+    }   
+.name {
+        font-size: 50px;
+    }
+ .place{
+  font-size:16px;
+}    
+.selfintro h2 {
+        font-size: 28px;
+        height: 28px;
+    }
+.cvleft{
+ padding: 0 5% 0 20% ;  
+}
+.cvright{
+ padding: 0 20% 0 5% ;  
+}
+}/***************end minwidth1200*************/
