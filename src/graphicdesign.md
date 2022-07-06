@@ -12,7 +12,7 @@ pageClass: graphicdesign
 {%- for page in collections.design %}
  <article class="card">  
    <div class="card-img"> 
-   <img src="{{page.data.postImg}}" alt="{{page.data.postImgAlt}}" >
+   <img src="{{page.data.postImg}}" alt="{{page.data.postImg}}" >
       </div>
       <div class="card__content">
          <h2 class="project-title"><a href="{{page.url}}">{{page.data.title}}</a></h2> 
