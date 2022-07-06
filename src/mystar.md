@@ -2,7 +2,7 @@
 title: My Star
 layout: base.njk
 tags: ['visual', 'navItem']
-postImg: ""
+postImg: "/images/star.jpg"
 postImgAlt: "alt text"
 text: Tool:Premiere Pro
 ---

@@ -2,7 +2,7 @@
 title: animation
 layout: base.njk
 tags: ['visual', 'navItem']
-postImg: ""
+postImg: "/images/worn.png"
 postImgAlt: "alt text"
 text: Tool:Animate
 ---

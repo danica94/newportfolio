@@ -11,10 +11,39 @@ text: Tools:Github,Gitpod
  <div class="description"> 
     <h2 class="dptitle">Swettie Life</h2>  
    <p class="dpword">Tools:Github,Gitpod</p>
-  <h3 class="projectdetail">Inspiration</h3>
-   <p class="dpword"> The texture of the wall is very rough, and full of flowers. The path, just like a bridge connects the two girls. We can’t see their faces,but can feel their connection. I adjust the transparency of the cloud. The sun appeared, and the dark clouds faded away. We can see the texture of the mountains and the sky. A girl faces the sun. </p>
+    <p class="dpword">Group Project:Xueying Liu; Minglin Chen</p>
+   <h3 class="projectdetail">Description</h3>
+   <p class="dpword"> The purpose of Sweetie Life is to instruct on how to create delicate and delicious pastries from all over the world. Regardless of where you are located, or what level your pastries-making skills are at, Sweetie Life provides a detailed description of all presented pastries on our website and easy-to-follow recipes. Additionally, Sweetie Life prepares high-quality, different baking levels, online lesson services in order for students to interact with our instructor and get timely responses. 
+ </h3>
+   <h3 class="projectdetail">Target Audience </h3>
+   <p class="dpword">Our target audience would be patissiers (pastry chefs), at-home bakers, housewives, and first-time bakers as well. </p>
+   <h3 class="projectdetail">Goals</h3>
+   <p class="dpword">To teach and guide all visitors that are on different pastry-making levels by presenting them with a few pastries, their history, and a recipe they can follow for each treat. As well as introducing monthly and yearly packets the audience can buy if they are interested in more in-depth lessons plus exclusive recipes.  
+</p>
+</div>
+ <h3 class="projectdetail">Style Tile</h3>
+  <div class="dpimages-width"> 
+<img src="/images/sweetie/STYLETILE.jpg"  class="dp" alt="image">
+</div>
+<h3 class="projectdetail">Site Map</h3>
+  <div class="dpimages-width"> 
+<img src="/images/sweetie/sweetiemap.png"  class="dp" alt="image">
+</div>
+<h3 class="projectdetail">Wire Frame</h3>
+<div class="dpimages-width"> 
+ <img src="/images/sweetie/sl1.png"  class="dp" alt="image" >
+ </div>
+ <div class="dpimages-width"> 
+ <img src="/images/sweetie/sl2.png"  class="dp" alt="image" >
+ </div>
+ <div class="dpimages-width"> 
+ <img src="/images/sweetie/sl4.png"  class="dp" alt="image" >
+ </div>
+ <div class="dpimages-width"> 
+ <img src="/images/sweetie/sl5.png"  class="dp" alt="image" >
+ </div>
+<h3 class="projectdetail">Outcome</h3>
+ <a href="https://sweetielife.netlify.app/">Sweetie Life（click me）</a>
  </div>  
-   <div class="dpimages-width"> 
-   <img src="/images/girl-poster.jpg"  class="dp" alt="image"></div>
-    </div>
+   
   </main>

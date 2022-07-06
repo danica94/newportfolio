@@ -16,45 +16,24 @@ text: Tools:Photoshop, Illustrator
  </p>
  </div>  
    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker_Page_1.png"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker_Page_1.png"  class="dp" alt="image">
     </div>
      <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker_Page_2.png"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker_Page_2.png"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker_Page_3.png"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker_Page_3.png"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker_Page_4.png"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker_Page_4.png"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_01.jpg"  class="dp" alt="image"></div>
+   <img src="/images/jocker/small-1.jpg"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_03.jpg"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker3_Page_1.jpg"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_04.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_06.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_07.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_08.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_09.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker2_Page_10.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker3_Page_1.jpg"  class="dp" alt="image"></div>
-    </div>
-    <div class="dpimages-width"> 
-   <img src="/images/jocker/jocker3_Page_2.jpg"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker3_Page_2.jpg"  class="dp" alt="image">
     </div>
   </main>
