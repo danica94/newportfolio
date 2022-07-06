@@ -55,6 +55,56 @@ pageClass: home
             </div>
         </div>
 <!-- Experience End -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+<div class="container">
+	<div class="card">
+		<figure class="card__thumb">
+			<img src="https://source.unsplash.com/71u2fOofI-U/300x510" alt="love" class="card__image">
+			<figcaption class="card__caption">
+				<h2 class="card__title">Love</h2>
+				<p class="card__snippet">NASA released a list of 219 new “planet candidates” discovered by the Kepler space telescope, 10 of which are similar to Earth’s size and may be habitable by other life forms.</p>
+				<a href="/love" class="card__button">Read more</a>
+			</figcaption>
+		</figure>
+	</div>
+    <div class="card">
+		<figure class="card__thumb">
+			<img src="https://source.unsplash.com/71u2fOofI-U/300x510" alt="love" class="card__image">
+			<figcaption class="card__caption">
+				<h2 class="card__title">Love</h2>
+				<p class="card__snippet">NASA released a list of 219 new “planet candidates” discovered by the Kepler space telescope, 10 of which are similar to Earth’s size and may be habitable by other life forms.</p>
+				<a href="/love" class="card__button">Read more</a>
+			</figcaption>
+		</figure>
+	</div>
+	<div class="card">
+		<figure class="card__thumb">
+			<img src="https://source.unsplash.com/qXMpNtNp1uE/300x510" alt="Picture by Daniel Lincoln" class="card__image">
+			<figcaption class="card__caption">
+				<h2 class="card__title">Why You Should Bring Your Dog To Work</h2>
+				<p class="card__snippet">On Friday, offices around the country celebrated the 15th annual Take Your Dog to Work Day. Though the event's primary goal is to raise awareness for pet adoption, the unanticipated impact may be a slightly more relaxing work environment for any office choosing to participate.</p>
+				<a href="" class="card__button">Read more</a>
+			</figcaption>
+		</figure>
+	</div>
+    <div class="card">
+		<figure class="card__thumb">
+			<img src="https://source.unsplash.com/qXMpNtNp1uE/300x510" alt="Picture by Daniel Lincoln" class="card__image">
+			<figcaption class="card__caption">
+				<h2 class="card__title">Why You Should Bring Your Dog To Work</h2>
+				<p class="card__snippet">On Friday, offices around the country celebrated the 15th annual Take Your Dog to Work Day. Though the event's primary goal is to raise awareness for pet adoption, the unanticipated impact may be a slightly more relaxing work environment for any office choosing to participate.</p>
+				<a href="" class="card__button">Read more</a>
+			</figcaption>
+		</figure>
+	</div>
+</div>
+
+
+
+
+
+
   <!-- Back to top button -->
      
 <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-chevron-up"></i></button>   
