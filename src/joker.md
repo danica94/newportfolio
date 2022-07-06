@@ -2,7 +2,7 @@
 title: Joker
 layout: base.njk
 tags: ['design', 'navItem']
-postImg: "/images/smallprejudice.jpg"
+postImg: "/images/s-jocker.jpg"
 postImgAlt: "alt text"
 text: Tools:Photoshop, Illustrator 
 ---

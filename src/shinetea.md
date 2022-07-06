@@ -2,7 +2,7 @@
 title: shinetea
 layout: base.njk
 tags: ['uiux', 'navItem']
-postImg: ""
+postImg: "/images/tea1.jpg"
 postImgAlt: "alt text"
 text: Tool:Figma 
 ---

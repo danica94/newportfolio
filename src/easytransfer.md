@@ -2,7 +2,7 @@
 title: easy transfer
 layout: base.njk
 tags: ['uiux', 'navItem']
-postImg: ""
+postImg: "/images/transfer.jpg"
 postImgAlt: "alt text"
 text: Tool:Figma 
 ---

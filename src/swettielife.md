@@ -2,7 +2,7 @@
 title: swettielife
 layout: base.njk
 tags: ['web', 'navItem']
-postImg: ""
+postImg: "/images/s-sweet.jpg"
 postImgAlt: "alt text"
 text: Tools:Github,Gitpod
 ---
