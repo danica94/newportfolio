@@ -1,7 +1,7 @@
 ---
 title: Yue
 layout: base.njk
-tags: ['visual', 'navItem']
+tags: ['visual', 'navItem','home']
 postImg: "/images/huggy.jpg"
 postImgAlt: "alt text"
 text: Tool:Photoshop 

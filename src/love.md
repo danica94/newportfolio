@@ -1,7 +1,7 @@
 ---
 title: Love
 layout: base.njk
-tags: ['design', 'navItem']
+tags: ['design', 'navItem','home']
 postImg: "/images/smallgirl-poster.jpg"
 postImgAlt: "alt text"
 text: Tools:Photoshop, Illustrator 

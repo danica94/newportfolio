@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Nunito&display=swap');
 .detailpage{
     display: grid;
     grid-gap: 1rem;
@@ -10,13 +12,16 @@
 
      font-size:45px;
      padding-top:20px;
+     font-family: 'Patrick Hand', cursive; 
     }
   .dpword{
-    font-size:25px;
+    font-size:22px;
     text-align:left;
+    font-family: 'Jost', sans-serif;
   }
   .projectdetail{
-       font-size:30px;
+       font-size:28px;
+       font-family: 'Patrick Hand', cursive; 
   }
     @media screen and (max-width: 600px){
   .detailpage{

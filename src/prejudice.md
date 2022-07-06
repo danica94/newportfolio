@@ -1,7 +1,7 @@
 ---
 title: Prejudice
 layout: base.njk
-tags: ['design', 'navItem']
+tags: ['design', 'navItem','home']
 postImg: "/images/smallprejudice.jpg"
 postImgAlt: "alt text"
 text: Tools:Photoshop, Illustrator 

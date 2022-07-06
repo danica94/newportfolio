@@ -1,7 +1,7 @@
 ---
 title: Joker
 layout: base.njk
-tags: ['design', 'navItem']
+tags: ['design', 'navItem','home']
 postImg: "/images/s-jocker.jpg"
 postImgAlt: "alt text"
 text: Tools:Photoshop, Illustrator 

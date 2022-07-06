@@ -1,7 +1,7 @@
 ---
 title: My Star
 layout: base.njk
-tags: ['visual', 'navItem']
+tags: ['visual', 'navItem','home']
 postImg: "/images/star.jpg"
 postImgAlt: "alt text"
 text: Tool:Premiere Pro
@@ -15,7 +15,7 @@ text: Tool:Premiere Pro
  </div>  
 
    <div class="videoWrapper ratio-4-3">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/0ec72BSfCm0" title="MyStar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="responsive-iframe" src="https://www.youtube.com/embed/0ec72BSfCm0" title="MyStar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 </div><!-- end .videoWrapper -->
     </div>

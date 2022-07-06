@@ -1,7 +1,7 @@
 ---
 title: shinetea
 layout: base.njk
-tags: ['uiux', 'navItem']
+tags: ['uiux', 'navItem','home']
 postImg: "/images/tea1.jpg"
 postImgAlt: "alt text"
 text: Tool:Figma 
@@ -11,6 +11,10 @@ text: Tool:Figma
  <div class="description"> 
     <h2 class="dptitle">ShineTea</h2>  
    <p class="dpword">Tool:Figma</p>
+   <h3 class="projectdetail">Outcome</h3>
+<div class="iframecontainer"> 
+ <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCp2s91HBNUB1cW4wnX9Jd3%2FPrototype" allowfullscreen></iframe>
+</div>
   <h3 class="projectdetail">Description</h3>
    <p class="dpword"> It is a milk tea order website.  Provide fresh and healthy materials. Provide online order and delivery service for customer </p>
    <h3 class="projectdetail">Purpose of Website </h3>
@@ -40,9 +44,4 @@ I compared another milk tea shop around and found that its layout was very confu
 <div class="dpimages-width"> 
  <img src="/images/shineteawireframe.png"  class="dp" alt="image" >
  </div>
-
-<h3 class="projectdetail">Outcome</h3>
-<div class="iframecontainer"> 
- <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCp2s91HBNUB1cW4wnX9Jd3%2FPrototype" allowfullscreen></iframe>
-</div>
   </main>

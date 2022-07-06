@@ -1,7 +1,7 @@
 ---
 title: easy transfer
 layout: base.njk
-tags: ['uiux', 'navItem']
+tags: ['uiux', 'navItem','home']
 postImg: "/images/transfer.jpg"
 postImgAlt: "alt text"
 text: Tool:Figma 
@@ -11,6 +11,10 @@ text: Tool:Figma
  <div class="description"> 
     <h2 class="dptitle">Easy Transfer</h2>  
    <p class="dpword">Tool:Figma</p>
+   <h3 class="projectdetail">Out Come</h3>
+<div class="iframecontainer"> 
+ <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxDHk0uXHv23dagtwLTfo2A%2Ffinal-xueyingliu%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+</div>
   <h3 class="projectdetail">Description</h3>
    <p class="dpword"> This is an app that can help bmcc students find the transfer information they need. It can provide more convenient and comprehensive information for students to transfer to a four-year undergraduate program.</p>
    <h3 class="projectdetail">Purpose of Mobile App  </h3>
@@ -50,9 +54,5 @@ Students who successfully transferred fill out the form and share their successf
 <h3 class="projectdetail">User Flow</h3>
   <div class="dpimages-width"> 
 <img src="/images/transferuserflow.png"  class="dp" alt="image">
-</div>
-<h3 class="projectdetail">Out Come</h3>
-<div class="iframecontainer"> 
- <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxDHk0uXHv23dagtwLTfo2A%2Ffinal-xueyingliu%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 </div>
   </main>
