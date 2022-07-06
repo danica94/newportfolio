@@ -15,20 +15,31 @@ tags: navItem
       <p class="contactword">I’d love to hear from you and always welcome any feedback.<br>Please don’t hesitate to get in touch! <br>Send me a message and I’ll get back to you as soon as I can.</p-contact>
     <h3 class="email">Email:dliu9497@gmail.com</h3>
     </div>
-    <div class="cardright">
+    <form class="cardright"  method="post" action="contact.php">
     <div class="input-box">
-          <input type="text" placeholder="Name">
+          <input type="text"
+                  class="form-control"
+                  id="name"
+                  placeholder="NAME"
+                  name="name"
+                  value="">
         </div>
         <div class="input-box">
-          <input type="text" placeholder="Your Email Address">
+          <input type="email"
+                  class="form-control"
+                  id="email"
+                  placeholder="EMAIL"
+                  name="email"
+                  value="">
         </div>
         <div class="input-box message-box">
-        <textarea placeholder="Message"></textarea>
+        <textarea placeholder="MESSAGE"
+              name="message""></textarea>
         </div>
         <div class="button">
           <input type="button" name="send" value="Send">
         </div>  
-    </div>
+    </form>
     
   </selection>
   </main>  
