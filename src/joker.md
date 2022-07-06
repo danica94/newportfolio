@@ -12,9 +12,49 @@ text: Tools:Photoshop, Illustrator
      <h2 class="dptitle">Joker</h2> 
 <p class="dpword">Tools:Photoshop;Illustrator</p>
   <h3 class="projectdetail">Inspiration</h3>
-   <p class="dpword">People who are biased against others just like wearing a mask to see people so that they can’t understand people in the right way. People who sufferring from prejudice may feel unfair and feel as if they are walking in a bush of thorns. There is a door locked the justice. This door need a key to open it. Mutual suspicion can not solve the problem. </p>
+   <p class="dpword">I created and composed my graphics with 6 shapes created with the pen tool, pathfinder and the shape builder tool. I think in addition to amusement parks, circuses are also places where children can bring joy. So I designed 20 jocker patterns based on these six graphics.Then I extend and develop my designs.
+ </p>
  </div>  
    <div class="dpimages-width"> 
-   <img src="/images/prejudice.jpg"  class="dp" alt="image"></div>
+   <img src="/images/jocker/jocker_Page_1.png"  class="dp" alt="image"></div>
+    </div>
+     <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker_Page_2.png"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker_Page_3.png"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker_Page_4.png"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_01.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_03.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_04.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_06.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_07.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_08.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_09.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker2_Page_10.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker3_Page_1.jpg"  class="dp" alt="image"></div>
+    </div>
+    <div class="dpimages-width"> 
+   <img src="/images/jocker/jocker3_Page_2.jpg"  class="dp" alt="image"></div>
     </div>
   </main>
