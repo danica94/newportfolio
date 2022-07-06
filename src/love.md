@@ -1,8 +1,8 @@
 ---
 title: Love
 layout: base.njk
-tags: ['work', 'navItem']
-postImg: "images/smallgirl-poster.jpg"
+tags: ['design', 'navItem']
+postImg: "/images/smallgirl-poster.jpg"
 postImgAlt: "alt text"
 ---
   <main>

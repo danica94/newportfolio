@@ -1,9 +1,10 @@
-@use 'aboutme';
 @use 'layout';
 @use 'nav-basic';
 @use 'portfolio';
 @use 'contact';
 @use 'detailpage';
+@use 'home';
+@use 'uiux';
 
 // If you add another partial then make sure to:
 //    1. Put an underscore _ at the beginning of the name and end with .scss

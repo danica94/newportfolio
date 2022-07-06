@@ -1,8 +1,8 @@
 ---
 title: Postcard
 layout: base.njk
-tags: ['work', 'navItem']
-postImg: "images/smallposterny.jpg"
+tags: ['design', 'navItem']
+postImg: "/images/smallposterny.jpg"
 postImgAlt: "alt text"
 ---
   <main>
