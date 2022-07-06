@@ -12,7 +12,7 @@ pageClass: graphicdesign
   <a href="{{page.url}}" class="data-card">
     <img src="{{page.data.postImg}}" alt="{{page.data.postImg}}">
     <h4>{{page.data.title}}</h4>
-    <p>Aenean lacinia bibendum nulla sed consectetur.</p>
+    <p>{{page.data.text}}</p>
     <span class="link-text">
       View More
       <svg width="25" height="16" viewBox="0 0 25 16" fill="none" xmlns="http://www.w3.org/2000/svg">
