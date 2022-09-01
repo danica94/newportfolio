@@ -28,7 +28,7 @@ text: Tools:Github,Gitpod
 </p>
  <h3 class="projectdetail">Style Tile</h3>
   <div class="dpimages-width"> 
-<img src="/images/sweetie/STYLETILE.jpg"  class="dp" alt="image">
+<img src="/images/sweetie/IMG_4718.JPG"  class="dp" alt="image">
 </div>
 <h3 class="projectdetail">Site Map</h3>
   <div class="dpimages-width"> 
