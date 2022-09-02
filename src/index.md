@@ -41,6 +41,7 @@ pageClass: home
                             </p>
                         </div>
                     </div>
+                       <!-- Experience End
                     <div class="timeline-item left ">
                         <div class="timeline-text">
                             <div class="timeline-date">2011 - 2015</div>
@@ -51,6 +52,7 @@ pageClass: home
                             </p>
                         </div>
                     </div>
+End -->
                 </div>
             </div>
         </div>
