@@ -8,7 +8,7 @@ pageClass: graphicdesign
 <main>
 <h1 class="design">Animation</h1>
 <section class="page-contain">
-{%- for page in collections.visual %}
+{%- for page in collections.animation %}
   <a href="{{page.url}}" class="data-card">
     <img src="{{page.data.postImg}}" alt="{{page.data.postImg}}">
     <h4>{{page.data.title}}</h4>

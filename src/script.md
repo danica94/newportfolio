@@ -1,7 +1,7 @@
 ---
 title: Never Give Up
 layout: base.njk
-tags: ['visual', 'navItem','home']
+tags: ['visual', 'navItem']
 postImg: "/images/sscript.png"
 postImgAlt: "alt text"
 text: Tool:Celtx 

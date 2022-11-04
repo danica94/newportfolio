@@ -1,7 +1,7 @@
 ---
-title: animation
+title: Worm
 layout: base.njk
-tags: ['visual', 'navItem','home']
+tags: ['animation', 'navItem']
 postImg: "/images/worn.png"
 postImgAlt: "alt text"
 text: Tool:Animate

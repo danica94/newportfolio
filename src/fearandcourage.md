@@ -1,7 +1,7 @@
 ---
 title: Fear and Courage
 layout: base.njk
-tags: ['design', 'navItem','home']
+tags: ['design', 'navItem']
 postImg: "/images/smallfear.jpg"
 postImgAlt: "alt text"
 text: Tool:Photoshop

@@ -1,8 +1,8 @@
 ---
-title: animation
+title: Moving Car
 layout: base.njk
-tags: ['visual', 'navItem','home']
-postImg: "/images/worn.png"
+tags: ['animation', 'navItem']
+postImg: "/images/car.png"
 postImgAlt: "alt text"
 text: Tool:Animate
 ---

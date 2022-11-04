@@ -6,7 +6,7 @@ pageClass: graphicdesign
 ---
 
 <main>
-<h1 class="design">Visual</h1>
+<h1 class="design">Photography and Video</h1>
 <section class="page-contain">
 {%- for page in collections.visual %}
   <a href="{{page.url}}" class="data-card">

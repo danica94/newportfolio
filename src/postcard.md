@@ -1,7 +1,7 @@
 ---
 title: Museum Postcard
 layout: base.njk
-tags: ['design', 'navItem','home']
+tags: ['design', 'navItem']
 postImg: "/images/smallposterny.jpg"
 postImgAlt: "alt text"
 text: Tool:Illustrator 
