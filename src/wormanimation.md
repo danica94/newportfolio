@@ -9,7 +9,7 @@ text: Tool:Animate
   <main>
   <div class="detailpage">   
  <div class="description"> 
-    <h2 class="dptitle">Animation</h2>  
+    <h2 class="dptitle">Worm</h2>  
    <p class="dpword">Tool:Animate</p>
   <h3 class="projectdetail"></h3>
    <p class="dpword">  </p>
