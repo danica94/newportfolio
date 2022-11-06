@@ -15,15 +15,18 @@ text: Tools:Photoshop, Illustrator
    <p class="dpword">I created and composed my graphics with 6 shapes created with the pen tool, pathfinder and the shape builder tool. I think in addition to amusement parks, circuses are also places where children can bring joy. So I designed 20 jocker patterns based on these six graphics.Then I extend and develop my designs.
  </p>
  </div>  
+ <div class="dpimages-width"> 
+   <img src="/images/jocker/6shape.png"  class="dp" alt="image">
+    </div>
    <div class="dpimages-width"> 
    <img src="/images/jocker/jocker_Page_1.png"  class="dp" alt="image">
     </div>
-     <div class="dpimages-width"> 
+<!--     <div class="dpimages-width"> 
    <img src="/images/jocker/jocker_Page_2.png"  class="dp" alt="image">
     </div>
     <div class="dpimages-width"> 
    <img src="/images/jocker/jocker_Page_3.png"  class="dp" alt="image">
-    </div>
+    </div>--->
     <div class="dpimages-width"> 
    <img src="/images/jocker/jocker_Page_4.png"  class="dp" alt="image">
     </div>
