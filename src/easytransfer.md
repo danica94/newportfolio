@@ -49,7 +49,7 @@ Students who successfully transferred fill out the form and share their successf
  
 <h3 class="projectdetail">Sketches</h3>
 <div class="dpimages-width"> 
- <img src="/images/transfersketches.png"  class="dp" alt="image" >
+ <img src="//transfersketches.png"  class="dp" alt="image" >
  </div>
 <h3 class="projectdetail">User Flow</h3>
   <div class="dpimages-width"> 
