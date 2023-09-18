@@ -13,7 +13,7 @@ text: Tool:Figma
    <p class="dpword">Tool:Figma</p>
    <h3 class="projectdetail">Out Come</h3>
 <div class="iframecontainer"> 
- <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxDHk0uXHv23dagtwLTfo2A%2Ffinal-xueyingliu%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+ <iframe></iframe>
 </div>
   <h3 class="projectdetail">Description</h3>
    <p class="dpword"> This is an app that can help bmcc students find the transfer information they need. It can provide more convenient and comprehensive information for students to transfer to a four-year undergraduate program.</p>
